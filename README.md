@@ -32,3 +32,10 @@ This project benchmarks SV detection across three reference strategies:
 Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) data from a national pilot, UDN clinical cohort.
 
 ---
+
+
+
+
+
+*Supervisor:* **Jesper Eisfeldt**
+*Subject reader:* **Adam Ameur**
