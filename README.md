@@ -42,6 +42,7 @@ Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) 
 
 
 
+
 ---
 
 *Supervisor:* **Jesper Eisfeldt**
@@ -52,6 +53,6 @@ Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) 
 
 ## License
 
-The project is released under the GPL-3.0 license. For more details on the licensing, please See the [LICENSE](LICENSE) file. 
+The project is released under the GPL-3.0 license. 
 
 ## FINAL NOTES
