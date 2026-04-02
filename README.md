@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="spindel_logo.svg" width="380" alt="Spindel logo"/>
+</p>
+
+<h1 align="center">Spindel</h1>
+<p align="center">
+  <em>Graph Genome Evaluation: Comparing Linear and Pangenome References for Structural Variant Detection</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Uppsala%20University-Thesis-6366f1"/>
+  <img src="https://img.shields.io/badge/PacBio%20HiFi-Long--read-34d399"/>
+  <img src="https://img.shields.io/badge/Illumina-Short--read-60a5fa"/>
+</p>
+
+---
+
 # Graph Genome Evaluation: Comparing Linear and Pangenome References for Structural Variant 
 
 ## **Does your reference genome affect structural variant detection?** 
