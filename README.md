@@ -8,15 +8,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Structural Variant"/>
+  <img src="https://img.shields.io/badge/Structural_Variant-Detection-a78bfa"/>
   <img src="https://img.shields.io/badge/PacBio%20HiFi-Long--read-34d399"/>
   <img src="https://img.shields.io/badge/Illumina-Short--read-60a5fa"/>
 </p>
 
 ---
 
-# Graph Genome Evaluation: Comparing Linear and Pangenome References for Structural Variant 
+## Overview
 
-## **Does your reference genome affect structural variant detection?** 
+Does your reference genome affect structural variant detection?
 
-This project evaluates whether the reference genome strategy linear (GRCh38), complete (T2T-CHM13 v2.0), or pangenome graph (HPRC v1.1) affects structural variant (SV) detection in short-read Illumina whole-genome sequencing data and Long-reads PacBio whole-genome sequencing data.   
+This project benchmarks SV detection across three reference strategies:
+
+| Strategy | Reference | Type |
+|---|---|---|
+| Linear | GRCh38 | Standard linear |
+| Complete | T2T-CHM13 v2.0 | Telomere-to-telomere |
+| Pangenome graph | HPRC v1.1 (Minigraph-Cactus) | Graph-based |
+
+Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) data from a national pilot, UDN clinical cohort.
+
+---
